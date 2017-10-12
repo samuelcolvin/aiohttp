@@ -9,6 +9,8 @@ Server Usage
 Run a Simple Web Server
 -----------------------
 
+**changed to demonstrate netlify build.**
+
 In order to implement a web server, first create a
 :ref:`request handler <aiohttp-web-handler>`.
 
